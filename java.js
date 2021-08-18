@@ -53,10 +53,10 @@
 
 
         function bangunDatar() {
-            var bd;
-            var inputOne;
-            var inputTwo;
-            var result;
+//             var bd;
+//             var inputOne;
+//             var inputTwo;
+//             var result;
 
             bd = prompt("Masukkan Jenis Bangun Datar");
             // inputOne = prompt("Masukkan Sisi Pertama");

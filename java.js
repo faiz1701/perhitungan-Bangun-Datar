@@ -1,5 +1,3 @@
-  //MENGGUNAKAN IF
-
         //  var tipe = prompt("Masukan tipe bangun datar")
 
         function bangunDatarComponent(tipe) {
